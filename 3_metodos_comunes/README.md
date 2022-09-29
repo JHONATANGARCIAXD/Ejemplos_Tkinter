@@ -1,10 +1,10 @@
 # 2. METODOS COMUNES
 
-## Foco
+## Deletreo
 
-### Este metodo consite en completar la frase "Tkinter" en cada una de las celdas en las que se rota la celda aleatoriamente.
+### Este programa consite en completar la frase "Tkinter" en cada una de las celdas en las que se rota la celda aleatoriamente.
 
-![Foco](Foco.png "Foco")
+![Deletreo](Foco.png "Deletreo")
 
 
 ## Posicion de Raton
