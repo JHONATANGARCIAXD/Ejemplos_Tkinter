@@ -62,7 +62,6 @@
 ![Formulario](Formulario.png "Formulario")
 
 
-
 ## Texto
 
 ### Permite escribir cualquier texto y luego guardarlo.
